@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3_Styles</string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    <string name="title">Trip Advisor</string>
+
+    <string name="location">Location</string>
+    <string name="distance">Distance from UST</string>
+    <string name="todo">TODO</string>
+</resources>
